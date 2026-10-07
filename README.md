@@ -26,11 +26,11 @@ I have 8+ years of experience specializing in the **Servoy** platform, alongside
 ### 🚀 Featured work
 
 - **[Saif Aluminium](https://saif.com.pk)** — freelance website for a Karachi aluminium & glass fabrication company. React, Vite and Tailwind CSS, with SEO and AEO (structured data, llms.txt), deployed on Cloudflare Workers.
-- **[My portfolio](https://mohammadmustansir.vercel.app)** — React 19 and Tailwind CSS, pre-rendered for search engines and AI crawlers, with 99–100 Lighthouse scores.
+- **[My portfolio](https://mohammadmustansir.com)** — React 19 and Tailwind CSS, pre-rendered for search engines and AI crawlers, with 99–100 Lighthouse scores.
 
 ### 📫 Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammadmustansir.vercel.app-2563EB?style=flat-square)](https://mohammadmustansir.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammadmustansir.com-2563EB?style=flat-square)](https://mohammadmustansir.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--mustansir-0A66C2?style=flat-square)](https://www.linkedin.com/in/mohammad-mustansir/)
 [![Email](https://img.shields.io/badge/Email-mohammad.mustansir53%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammad.mustansir53@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-475569?style=flat-square)](https://mohammadmustansir.vercel.app/Mohammad_Mustansir_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-475569?style=flat-square)](https://mohammadmustansir.com/Mohammad_Mustansir_Resume.pdf)
