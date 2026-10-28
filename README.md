@@ -25,6 +25,7 @@ I have 8+ years of experience specializing in the **Servoy** platform, alongside
 
 ### 🚀 Featured work
 
+- **[CVBuilder](https://designmycv.netlify.app)** — free, privacy-first resume and cover letter builder. Vanilla JavaScript with on-page editing, 12 templates, an ATS checker, a job-ad keyword matcher, PDF/Word export and share links that need no backend; deployed on Netlify.
 - **[Saif Aluminium](https://saif.com.pk)** — freelance website for a Karachi aluminium & glass fabrication company. React, Vite and Tailwind CSS, with SEO and AEO (structured data, llms.txt), deployed on Cloudflare Workers.
 - **[My portfolio](https://mohammadmustansir.com)** — React 19 and Tailwind CSS, pre-rendered for search engines and AI crawlers, with 99–100 Lighthouse scores.
 
